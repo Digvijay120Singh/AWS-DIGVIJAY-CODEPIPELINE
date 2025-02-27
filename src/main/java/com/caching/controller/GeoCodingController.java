@@ -58,7 +58,6 @@ public class GeoCodingController {
         Map<String, Double> geocode = geoCodingService.getGeocode(address);
 
         logger.info("Longitude and Latitude result for address {}: {}", address, geocode);
-
         return ResponseEntity.ok(geocode);
     }
 

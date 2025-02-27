@@ -1,0 +1,394 @@
+2025-01-26 12:03:34 - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/DELL/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/DELL/.m2/repository/org/json/json/20220924/json-20220924.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2025-01-26 12:03:34 - Starting CachingApplicationTest using Java 23.0.1 on DESKTOP-DKDSUGT with PID 10876 (started by DELL in C:\Users\DELL\kdu_coursework\backend\assignments\2)
+2025-01-26 12:03:34 - Running with Spring Boot v2.7.8, Spring v5.3.25
+2025-01-26 12:03:34 - No active profile set, falling back to 1 default profile: "default"
+2025-01-26 12:03:34 - HV000001: Hibernate Validator 6.2.5.Final
+2025-01-26 12:03:37 - Started CachingApplicationTest in 3.398 seconds (JVM running for 5.055)
+2025-01-26 12:03:37 - Evicting all reverse geocoding cache entries.
+2025-01-26 12:03:37 - Evicting all geocoding cache entries.
+2025-01-26 12:03:49 - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/DELL/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/DELL/.m2/repository/org/json/json/20220924/json-20220924.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2025-01-26 12:03:49 - HV000001: Hibernate Validator 6.2.5.Final
+2025-01-26 12:03:49 - Starting GeoCodingImpTest using Java 23.0.1 on DESKTOP-DKDSUGT with PID 572 (started by DELL in C:\Users\DELL\kdu_coursework\backend\assignments\2)
+2025-01-26 12:03:49 - Running with Spring Boot v2.7.8, Spring v5.3.25
+2025-01-26 12:03:49 - No active profile set, falling back to 1 default profile: "default"
+2025-01-26 12:03:51 - Initializing Spring TestDispatcherServlet ''
+2025-01-26 12:03:51 - Initializing Servlet ''
+2025-01-26 12:03:51 - Completed initialization in 1 ms
+2025-01-26 12:03:51 - Started GeoCodingImpTest in 2.948 seconds (JVM running for 4.726)
+2025-01-26 12:03:51 - Evicting all geocoding cache entries.
+2025-01-26 12:03:51 - Evicting all reverse geocoding cache entries.
+2025-01-26 12:03:52 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-01-26 12:03:52 - Fetching reverse geocoding data for coordinates: 37.431155, -120.781462
+2025-01-26 12:03:54 - Address for coordinates 37.431155 , -120.781462: 16192 West Delhi Avenue, Delhi, CA, USA
+2025-01-26 12:03:54 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-01-26 12:03:54 - Address for coordinates 37.431155 , -120.781462: 16192 West Delhi Avenue, Delhi, CA, USA
+2025-01-26 12:03:54 - Received geocoding request for address: delhi
+2025-01-26 12:03:54 - Fetching geocoding data for address: delhi
+2025-01-26 12:03:54 - Longitude and Latitude result for address delhi: {latitude=28.557163, longitude=77.163665}
+2025-01-26 12:03:54 - Received geocoding request for address: delhi
+2025-01-26 12:03:54 - Longitude and Latitude result for address delhi: {latitude=28.557163, longitude=77.163665}
+2025-01-26 12:03:54 - Received geocoding request for address: goa
+2025-01-26 12:03:54 - Fetching geocoding data for address: goa
+2025-01-26 12:03:54 - Longitude and Latitude result for address goa: {latitude=15.353196, longitude=74.104396}
+2025-01-26 12:03:54 - Received geocoding request for address: goa
+2025-01-26 12:03:54 - Fetching geocoding data for address: goa
+2025-01-26 12:03:55 - Longitude and Latitude result for address goa: {latitude=15.353196, longitude=74.104396}
+2025-01-26 12:03:55 - Received geocoding request for address: delhi
+2025-01-26 12:03:55 - Fetching geocoding data for address: delhi
+2025-01-26 12:03:55 - Longitude and Latitude result for address delhi: {latitude=28.557163, longitude=77.163665}
+2025-01-26 12:03:55 - Received geocoding request for address: invalid_address
+2025-01-26 12:03:55 - Fetching geocoding data for address: invalid_address
+2025-01-26 12:03:55 - Received reverse geocoding request for coordinates: cat , -120.781462
+2025-01-26 12:03:55 - Fetching reverse geocoding data for coordinates: cat, -120.781462
+2025-01-26 12:03:56 - Received geocoding request for address: delhi
+2025-01-26 12:03:56 - Fetching geocoding data for address: delhi
+2025-01-26 12:03:56 - Longitude and Latitude result for address delhi: {latitude=28.557163, longitude=77.163665}
+2025-01-26 12:03:56 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-01-26 12:03:56 - Fetching reverse geocoding data for coordinates: 37.431155, -120.781462
+2025-01-26 12:03:56 - Address for coordinates 37.431155 , -120.781462: 16192 West Delhi Avenue, Delhi, CA, USA
+2025-01-26 12:04:06 - HV000001: Hibernate Validator 6.2.5.Final
+2025-01-26 12:04:06 - Starting Application using Java 23.0.1 on DESKTOP-DKDSUGT with PID 12092 (C:\Users\DELL\kdu_coursework\backend\assignments\2\target\classes started by DELL in C:\Users\DELL\kdu_coursework\backend\assignments\2)
+2025-01-26 12:04:06 - Running with Spring Boot v2.7.8, Spring v5.3.25
+2025-01-26 12:04:06 - No active profile set, falling back to 1 default profile: "default"
+2025-01-26 12:04:07 - Tomcat initialized with port(s): 8080 (http)
+2025-01-26 12:04:07 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-26 12:04:07 - Starting service [Tomcat]
+2025-01-26 12:04:07 - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2025-01-26 12:04:08 - Initializing Spring embedded WebApplicationContext
+2025-01-26 12:04:08 - Root WebApplicationContext: initialization completed in 1702 ms
+2025-01-26 12:04:08 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-26 12:04:08 - Tomcat started on port(s): 8080 (http) with context path ''
+2025-01-26 12:04:08 - Started Application in 3.224 seconds (JVM running for 3.912)
+2025-01-26 12:04:08 - Evicting all reverse geocoding cache entries.
+2025-01-26 12:04:08 - Evicting all geocoding cache entries.
+2025-01-26 12:04:18 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-26 12:04:18 - Initializing Servlet 'dispatcherServlet'
+2025-01-26 12:04:18 - Completed initialization in 1 ms
+2025-01-26 12:04:18 - Received geocoding request for address: Delhi
+2025-01-26 12:04:18 - Fetching geocoding data for address: Delhi
+2025-01-26 12:04:20 - Longitude and Latitude result for address Delhi: {latitude=28.557163, longitude=77.163665}
+2025-01-26 12:04:30 - Received geocoding request for address: NewYork
+2025-01-26 12:04:30 - Fetching geocoding data for address: NewYork
+2025-01-26 12:04:31 - Longitude and Latitude result for address NewYork: {latitude=56.25, longitude=-5.28333}
+2025-01-26 12:04:58 - Received geocoding request for address: NewYork
+2025-01-26 12:04:58 - Longitude and Latitude result for address NewYork: {latitude=56.25, longitude=-5.28333}
+2025-01-26 12:07:14 - Received reverse geocoding request for coordinates: 56.25 ,  -5.28333
+2025-01-26 12:07:14 - Fetching reverse geocoding data for coordinates: 56.25,  -5.28333
+2025-01-26 12:07:14 - Address for coordinates 56.25 ,  -5.28333: Loch Awe, Scotland, United Kingdom
+2025-01-26 12:07:43 - Received reverse geocoding request for coordinates: 56.25 ,  -5.28333
+2025-01-26 12:07:43 - Address for coordinates 56.25 ,  -5.28333: Loch Awe, Scotland, United Kingdom
+2025-01-26 12:08:52 - Received geocoding request for address: 
+2025-01-26 12:08:52 - Fetching geocoding data for address: 
+2025-01-26 12:09:24 - Received geocoding request for address: addres123
+2025-01-26 12:09:24 - Fetching geocoding data for address: addres123
+2025-01-26 12:09:57 - Received geocoding request for address: addres123
+2025-01-26 12:09:57 - Fetching geocoding data for address: addres123
+2025-01-26 12:10:49 - Received geocoding request for address: addres123
+2025-01-26 12:10:49 - Fetching geocoding data for address: addres123
+2025-01-26 12:10:57 - Received geocoding request for address: NewYork
+2025-01-26 12:10:57 - Fetching geocoding data for address: NewYork
+2025-01-26 12:10:57 - Evicted entry due to EXPIRATION (expired after 5 minutes): Key = NewYork, Value = {latitude=56.25, longitude=-5.28333}
+2025-01-26 12:10:57 - Evicted entry due to EXPIRATION (expired after 5 minutes): Key = Delhi, Value = {latitude=28.557163, longitude=77.163665}
+2025-01-26 12:10:58 - Longitude and Latitude result for address NewYork: {latitude=56.25, longitude=-5.28333}
+2025-02-26 15:44:30 - HV000001: Hibernate Validator 6.2.5.Final
+2025-02-26 15:44:30 - Starting Application using Java 23.0.1 on DESKTOP-DKDSUGT with PID 15488 (C:\Users\DELL\Desktop\2\target\classes started by DELL in C:\Users\DELL\Desktop\2)
+2025-02-26 15:44:30 - Running with Spring Boot v2.7.8, Spring v5.3.25
+2025-02-26 15:44:30 - No active profile set, falling back to 1 default profile: "default"
+2025-02-26 15:44:31 - Tomcat initialized with port(s): 8080 (http)
+2025-02-26 15:44:31 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-02-26 15:44:31 - Starting service [Tomcat]
+2025-02-26 15:44:31 - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2025-02-26 15:44:31 - Initializing Spring embedded WebApplicationContext
+2025-02-26 15:44:31 - Root WebApplicationContext: initialization completed in 1462 ms
+2025-02-26 15:44:32 - Starting ProtocolHandler ["http-nio-8080"]
+2025-02-26 15:44:32 - Tomcat started on port(s): 8080 (http) with context path ''
+2025-02-26 15:44:32 - Started Application in 2.796 seconds (JVM running for 3.437)
+2025-02-26 15:44:32 - Evicting all geocoding cache entries.
+2025-02-26 15:44:32 - Evicting all reverse geocoding cache entries.
+2025-02-26 15:49:18 - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/DELL/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/DELL/.m2/repository/org/json/json/20220924/json-20220924.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2025-02-26 15:49:18 - Starting CachingApplicationTest using Java 23.0.1 on DESKTOP-DKDSUGT with PID 7420 (started by DELL in C:\Users\DELL\Desktop\2)
+2025-02-26 15:49:18 - Running with Spring Boot v2.7.8, Spring v5.3.25
+2025-02-26 15:49:18 - No active profile set, falling back to 1 default profile: "default"
+2025-02-26 15:49:18 - HV000001: Hibernate Validator 6.2.5.Final
+2025-02-26 15:49:20 - Started CachingApplicationTest in 2.191 seconds (JVM running for 3.315)
+2025-02-26 15:49:20 - Evicting all reverse geocoding cache entries.
+2025-02-26 15:49:20 - Evicting all geocoding cache entries.
+2025-02-26 15:49:20 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.caching.service.GeoCodingImpTest], using SpringBootContextLoader
+2025-02-26 15:49:20 - Could not detect default resource locations for test class [com.caching.service.GeoCodingImpTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2025-02-26 15:49:20 - Could not detect default configuration classes for test class [com.caching.service.GeoCodingImpTest]: GeoCodingImpTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-02-26 15:49:20 - Found @SpringBootConfiguration com.caching.Application for test class com.caching.service.GeoCodingImpTest
+2025-02-26 15:49:20 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2025-02-26 15:49:20 - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@616a06e3, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@42297bdf, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@66e827a8, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@5bb911c1, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@6a55594b, org.springframework.test.context.support.DirtiesContextTestExecutionListener@632b305d, org.springframework.test.context.event.EventPublishingTestExecutionListener@44598ef7, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@57fdb8a4, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@17222c11, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@2db15f70, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@25974207, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1f15e689, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@195113de]
+2025-02-26 15:49:20 - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/DELL/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/DELL/.m2/repository/org/json/json/20220924/json-20220924.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2025-02-26 15:49:20 - Starting GeoCodingImpTest using Java 23.0.1 on DESKTOP-DKDSUGT with PID 7420 (started by DELL in C:\Users\DELL\Desktop\2)
+2025-02-26 15:49:20 - Running with Spring Boot v2.7.8, Spring v5.3.25
+2025-02-26 15:49:20 - No active profile set, falling back to 1 default profile: "default"
+2025-02-26 15:49:21 - Initializing Spring TestDispatcherServlet ''
+2025-02-26 15:49:21 - Initializing Servlet ''
+2025-02-26 15:49:21 - Completed initialization in 5 ms
+2025-02-26 15:49:21 - Started GeoCodingImpTest in 0.59 seconds (JVM running for 4.196)
+2025-02-26 15:49:21 - Evicting all reverse geocoding cache entries.
+2025-02-26 15:49:21 - Evicting all geocoding cache entries.
+2025-02-26 15:49:23 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-02-26 15:49:23 - Fetching reverse geocoding data for coordinates: 37.431155, -120.781462
+2025-02-26 15:49:25 - Address for coordinates 37.431155 , -120.781462: 16192 West Delhi Avenue, Delhi, CA, USA
+2025-02-26 15:49:25 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-02-26 15:49:25 - Address for coordinates 37.431155 , -120.781462: 16192 West Delhi Avenue, Delhi, CA, USA
+2025-02-26 15:49:25 - Received geocoding request for address: delhi
+2025-02-26 15:49:25 - Fetching geocoding data for address: delhi
+2025-02-26 15:49:26 - Longitude and Latitude result for address delhi: {latitude=28.557163, longitude=77.163665}
+2025-02-26 15:49:26 - Received geocoding request for address: delhi
+2025-02-26 15:49:26 - Longitude and Latitude result for address delhi: {latitude=28.557163, longitude=77.163665}
+2025-02-26 15:49:26 - Received geocoding request for address: goa
+2025-02-26 15:49:26 - Fetching geocoding data for address: goa
+2025-02-26 15:49:26 - Longitude and Latitude result for address goa: {latitude=15.353196, longitude=74.104396}
+2025-02-26 15:49:26 - Received geocoding request for address: goa
+2025-02-26 15:49:26 - Fetching geocoding data for address: goa
+2025-02-26 15:49:27 - Longitude and Latitude result for address goa: {latitude=15.353196, longitude=74.104396}
+2025-02-26 15:49:27 - Received geocoding request for address: delhi
+2025-02-26 15:49:27 - Fetching geocoding data for address: delhi
+2025-02-26 15:49:28 - Longitude and Latitude result for address delhi: {latitude=28.557163, longitude=77.163665}
+2025-02-26 15:49:28 - Received geocoding request for address: invalid_address
+2025-02-26 15:49:28 - Fetching geocoding data for address: invalid_address
+2025-02-26 15:49:29 - Received reverse geocoding request for coordinates: cat , -120.781462
+2025-02-26 15:49:29 - Fetching reverse geocoding data for coordinates: cat, -120.781462
+2025-02-26 15:49:30 - Received geocoding request for address: delhi
+2025-02-26 15:49:30 - Fetching geocoding data for address: delhi
+2025-02-26 15:49:30 - Longitude and Latitude result for address delhi: {latitude=28.557163, longitude=77.163665}
+2025-02-26 15:49:30 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-02-26 15:49:30 - Fetching reverse geocoding data for coordinates: 37.431155, -120.781462
+2025-02-26 15:49:31 - Address for coordinates 37.431155 , -120.781462: 16192 West Delhi Avenue, Delhi, CA, USA
+2025-02-26 16:06:36 - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/DELL/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/DELL/.m2/repository/org/json/json/20220924/json-20220924.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2025-02-26 16:06:36 - Starting CachingApplicationTest using Java 23.0.1 on DESKTOP-DKDSUGT with PID 17192 (started by DELL in C:\Users\DELL\Desktop\2)
+2025-02-26 16:06:36 - Running with Spring Boot v2.7.8, Spring v5.3.25
+2025-02-26 16:06:36 - No active profile set, falling back to 1 default profile: "default"
+2025-02-26 16:06:36 - HV000001: Hibernate Validator 6.2.5.Final
+2025-02-26 16:06:38 - Started CachingApplicationTest in 2.257 seconds (JVM running for 3.146)
+2025-02-26 16:06:38 - Evicting all reverse geocoding cache entries.
+2025-02-26 16:06:38 - Evicting all geocoding cache entries.
+2025-02-26 16:06:38 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.caching.service.GeoCodingImpTest], using SpringBootContextLoader
+2025-02-26 16:06:38 - Could not detect default resource locations for test class [com.caching.service.GeoCodingImpTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2025-02-26 16:06:38 - Could not detect default configuration classes for test class [com.caching.service.GeoCodingImpTest]: GeoCodingImpTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-02-26 16:06:38 - Found @SpringBootConfiguration com.caching.Application for test class com.caching.service.GeoCodingImpTest
+2025-02-26 16:06:38 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2025-02-26 16:06:38 - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@2db15f70, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@25974207, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@1f15e689, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@195113de, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@3ebc955b, org.springframework.test.context.support.DirtiesContextTestExecutionListener@21a46ff1, org.springframework.test.context.event.EventPublishingTestExecutionListener@11b5f4e2, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@6bcae9, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@5aa781f2, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@58feb6b0, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@66d25ba9, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@3830f918, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@5efe47fd]
+2025-02-26 16:06:38 - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/DELL/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/DELL/.m2/repository/org/json/json/20220924/json-20220924.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2025-02-26 16:06:38 - Starting GeoCodingImpTest using Java 23.0.1 on DESKTOP-DKDSUGT with PID 17192 (started by DELL in C:\Users\DELL\Desktop\2)
+2025-02-26 16:06:38 - Running with Spring Boot v2.7.8, Spring v5.3.25
+2025-02-26 16:06:38 - No active profile set, falling back to 1 default profile: "default"
+2025-02-26 16:06:38 - Initializing Spring TestDispatcherServlet ''
+2025-02-26 16:06:38 - Initializing Servlet ''
+2025-02-26 16:06:38 - Completed initialization in 2 ms
+2025-02-26 16:06:38 - Started GeoCodingImpTest in 0.608 seconds (JVM running for 4.038)
+2025-02-26 16:06:38 - Evicting all reverse geocoding cache entries.
+2025-02-26 16:06:38 - Evicting all geocoding cache entries.
+2025-02-26 16:06:41 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-02-26 16:06:41 - Fetching reverse geocoding data for coordinates: 37.431155, -120.781462
+2025-02-26 16:06:43 - Address for coordinates 37.431155 , -120.781462: 16192 West Delhi Avenue, Delhi, CA, USA
+2025-02-26 16:06:43 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-02-26 16:06:43 - Address for coordinates 37.431155 , -120.781462: 16192 West Delhi Avenue, Delhi, CA, USA
+2025-02-26 16:06:43 - Received geocoding request for address: delhi
+2025-02-26 16:06:43 - Fetching geocoding data for address: delhi
+2025-02-26 16:06:44 - Longitude and Latitude result for address delhi: {longitude=77.163665, latitude=28.557163}
+2025-02-26 16:06:44 - Received geocoding request for address: delhi
+2025-02-26 16:06:44 - Longitude and Latitude result for address delhi: {longitude=77.163665, latitude=28.557163}
+2025-02-26 16:06:44 - Received geocoding request for address: goa
+2025-02-26 16:06:44 - Fetching geocoding data for address: goa
+2025-02-26 16:06:44 - Longitude and Latitude result for address goa: {longitude=74.104396, latitude=15.353196}
+2025-02-26 16:06:45 - Received geocoding request for address: goa
+2025-02-26 16:06:45 - Fetching geocoding data for address: goa
+2025-02-26 16:06:45 - Longitude and Latitude result for address goa: {longitude=74.104396, latitude=15.353196}
+2025-02-26 16:06:45 - Received geocoding request for address: delhi
+2025-02-26 16:06:45 - Fetching geocoding data for address: delhi
+2025-02-26 16:06:46 - Longitude and Latitude result for address delhi: {longitude=77.163665, latitude=28.557163}
+2025-02-26 16:06:46 - Received geocoding request for address: invalid_address
+2025-02-26 16:06:46 - Fetching geocoding data for address: invalid_address
+2025-02-26 16:06:46 - Received reverse geocoding request for coordinates: cat , -120.781462
+2025-02-26 16:06:46 - Fetching reverse geocoding data for coordinates: cat, -120.781462
+2025-02-26 16:06:46 - Received geocoding request for address: delhi
+2025-02-26 16:06:46 - Fetching geocoding data for address: delhi
+2025-02-26 16:06:47 - Longitude and Latitude result for address delhi: {longitude=77.163665, latitude=28.557163}
+2025-02-26 16:06:47 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-02-26 16:06:47 - Fetching reverse geocoding data for coordinates: 37.431155, -120.781462
+2025-02-26 16:06:48 - Address for coordinates 37.431155 , -120.781462: 16192 West Delhi Avenue, Delhi, CA, USA
+2025-02-26 16:07:03 - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/DELL/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/DELL/.m2/repository/org/json/json/20220924/json-20220924.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2025-02-26 16:07:03 - Starting CachingApplicationTest using Java 23.0.1 on DESKTOP-DKDSUGT with PID 17744 (started by DELL in C:\Users\DELL\Desktop\2)
+2025-02-26 16:07:03 - Running with Spring Boot v2.7.8, Spring v5.3.25
+2025-02-26 16:07:03 - No active profile set, falling back to 1 default profile: "default"
+2025-02-26 16:07:03 - HV000001: Hibernate Validator 6.2.5.Final
+2025-02-26 16:07:04 - Started CachingApplicationTest in 2.025 seconds (JVM running for 2.979)
+2025-02-26 16:07:04 - Evicting all reverse geocoding cache entries.
+2025-02-26 16:07:04 - Evicting all geocoding cache entries.
+2025-02-26 16:07:05 - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.caching.service.GeoCodingImpTest], using SpringBootContextLoader
+2025-02-26 16:07:05 - Could not detect default resource locations for test class [com.caching.service.GeoCodingImpTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2025-02-26 16:07:05 - Could not detect default configuration classes for test class [com.caching.service.GeoCodingImpTest]: GeoCodingImpTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-02-26 16:07:05 - Found @SpringBootConfiguration com.caching.Application for test class com.caching.service.GeoCodingImpTest
+2025-02-26 16:07:05 - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2025-02-26 16:07:05 - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@21a46ff1, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@11b5f4e2, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@6bcae9, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@5aa781f2, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@58feb6b0, org.springframework.test.context.support.DirtiesContextTestExecutionListener@66d25ba9, org.springframework.test.context.event.EventPublishingTestExecutionListener@3830f918, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@5efe47fd, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@739831a4, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@7e3236d, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@38a4e2b0, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@14c99bf6, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@266e9dda]
+2025-02-26 16:07:05 - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/DELL/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/DELL/.m2/repository/org/json/json/20220924/json-20220924.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2025-02-26 16:07:05 - Starting GeoCodingImpTest using Java 23.0.1 on DESKTOP-DKDSUGT with PID 17744 (started by DELL in C:\Users\DELL\Desktop\2)
+2025-02-26 16:07:05 - Running with Spring Boot v2.7.8, Spring v5.3.25
+2025-02-26 16:07:05 - No active profile set, falling back to 1 default profile: "default"
+2025-02-26 16:07:05 - Initializing Spring TestDispatcherServlet ''
+2025-02-26 16:07:05 - Initializing Servlet ''
+2025-02-26 16:07:05 - Completed initialization in 1 ms
+2025-02-26 16:07:05 - Started GeoCodingImpTest in 0.596 seconds (JVM running for 3.847)
+2025-02-26 16:07:05 - Evicting all reverse geocoding cache entries.
+2025-02-26 16:07:05 - Evicting all geocoding cache entries.
+2025-02-26 16:07:07 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-02-26 16:07:07 - Fetching reverse geocoding data for coordinates: 37.431155, -120.781462
+2025-02-26 16:07:09 - Address for coordinates 37.431155 , -120.781462: 16192 West Delhi Avenue, Delhi, CA, USA
+2025-02-26 16:07:09 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-02-26 16:07:09 - Address for coordinates 37.431155 , -120.781462: 16192 West Delhi Avenue, Delhi, CA, USA
+2025-02-26 16:07:09 - Received geocoding request for address: delhi
+2025-02-26 16:07:09 - Fetching geocoding data for address: delhi
+2025-02-26 16:07:10 - Longitude and Latitude result for address delhi: {latitude=28.557163, longitude=77.163665}
+2025-02-26 16:07:10 - Received geocoding request for address: delhi
+2025-02-26 16:07:10 - Longitude and Latitude result for address delhi: {latitude=28.557163, longitude=77.163665}
+2025-02-26 16:07:10 - Received geocoding request for address: goa
+2025-02-26 16:07:10 - Fetching geocoding data for address: goa
+2025-02-26 16:07:10 - Longitude and Latitude result for address goa: {latitude=15.353196, longitude=74.104396}
+2025-02-26 16:07:10 - Received geocoding request for address: goa
+2025-02-26 16:07:10 - Fetching geocoding data for address: goa
+2025-02-26 16:07:11 - Longitude and Latitude result for address goa: {latitude=15.353196, longitude=74.104396}
+2025-02-26 16:07:11 - Received geocoding request for address: delhi
+2025-02-26 16:07:11 - Fetching geocoding data for address: delhi
+2025-02-26 16:07:12 - Longitude and Latitude result for address delhi: {latitude=28.557163, longitude=77.163665}
+2025-02-26 16:07:12 - Received geocoding request for address: invalid_address
+2025-02-26 16:07:12 - Fetching geocoding data for address: invalid_address
+2025-02-26 16:07:12 - Received reverse geocoding request for coordinates: cat , -120.781462
+2025-02-26 16:07:12 - Fetching reverse geocoding data for coordinates: cat, -120.781462
+2025-02-26 16:07:13 - Received geocoding request for address: delhi
+2025-02-26 16:07:13 - Fetching geocoding data for address: delhi
+2025-02-26 16:07:13 - Longitude and Latitude result for address delhi: {latitude=28.557163, longitude=77.163665}
+2025-02-26 16:07:13 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-02-26 16:07:13 - Fetching reverse geocoding data for coordinates: 37.431155, -120.781462
+2025-02-26 16:07:14 - Address for coordinates 37.431155 , -120.781462: 16192 West Delhi Avenue, Delhi, CA, USA
+2025-02-26 16:25:17 - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/DELL/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/DELL/.m2/repository/org/json/json/20220924/json-20220924.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2025-02-26 16:25:17 - Starting CachingApplicationTest using Java 23.0.1 on DESKTOP-DKDSUGT with PID 9868 (started by DELL in C:\Users\DELL\Desktop\2)
+2025-02-26 16:25:17 - Running with Spring Boot v2.7.8, Spring v5.3.25
+2025-02-26 16:25:17 - No active profile set, falling back to 1 default profile: "default"
+2025-02-26 16:25:17 - HV000001: Hibernate Validator 6.2.5.Final
+2025-02-26 16:25:19 - Started CachingApplicationTest in 1.777 seconds (JVM running for 2.8)
+2025-02-26 16:25:19 - Evicting all reverse geocoding cache entries.
+2025-02-26 16:25:19 - Evicting all geocoding cache entries.
+2025-02-26 16:25:26 - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/DELL/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/DELL/.m2/repository/org/json/json/20220924/json-20220924.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2025-02-26 16:25:26 - HV000001: Hibernate Validator 6.2.5.Final
+2025-02-26 16:25:26 - Starting GeoCodingImpTest using Java 23.0.1 on DESKTOP-DKDSUGT with PID 13228 (started by DELL in C:\Users\DELL\Desktop\2)
+2025-02-26 16:25:26 - Running with Spring Boot v2.7.8, Spring v5.3.25
+2025-02-26 16:25:26 - No active profile set, falling back to 1 default profile: "default"
+2025-02-26 16:25:28 - Initializing Spring TestDispatcherServlet ''
+2025-02-26 16:25:28 - Initializing Servlet ''
+2025-02-26 16:25:28 - Completed initialization in 0 ms
+2025-02-26 16:25:28 - Started GeoCodingImpTest in 1.702 seconds (JVM running for 2.635)
+2025-02-26 16:25:28 - Evicting all reverse geocoding cache entries.
+2025-02-26 16:25:28 - Evicting all geocoding cache entries.
+2025-02-26 16:25:29 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-02-26 16:25:29 - Fetching reverse geocoding data for coordinates: 37.431155, -120.781462
+2025-02-26 16:25:31 - Address for coordinates 37.431155 , -120.781462: 16192 West Delhi Avenue, Delhi, CA, USA
+2025-02-26 16:25:31 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-02-26 16:25:31 - Address for coordinates 37.431155 , -120.781462: 16192 West Delhi Avenue, Delhi, CA, USA
+2025-02-26 16:25:31 - Received geocoding request for address: delhi
+2025-02-26 16:25:31 - Fetching geocoding data for address: delhi
+2025-02-26 16:25:31 - Longitude and Latitude result for address delhi: {longitude=77.163665, latitude=28.557163}
+2025-02-26 16:25:31 - Received geocoding request for address: delhi
+2025-02-26 16:25:31 - Longitude and Latitude result for address delhi: {longitude=77.163665, latitude=28.557163}
+2025-02-26 16:25:31 - Received geocoding request for address: goa
+2025-02-26 16:25:31 - Fetching geocoding data for address: goa
+2025-02-26 16:25:32 - Longitude and Latitude result for address goa: {longitude=74.104396, latitude=15.353196}
+2025-02-26 16:25:32 - Received geocoding request for address: goa
+2025-02-26 16:25:32 - Fetching geocoding data for address: goa
+2025-02-26 16:25:32 - Longitude and Latitude result for address goa: {longitude=74.104396, latitude=15.353196}
+2025-02-26 16:25:32 - Received geocoding request for address: delhi
+2025-02-26 16:25:32 - Fetching geocoding data for address: delhi
+2025-02-26 16:25:33 - Longitude and Latitude result for address delhi: {longitude=77.163665, latitude=28.557163}
+2025-02-26 16:25:33 - Received geocoding request for address: invalid_address
+2025-02-26 16:25:33 - Fetching geocoding data for address: invalid_address
+2025-02-26 16:25:34 - Received reverse geocoding request for coordinates: cat , -120.781462
+2025-02-26 16:25:34 - Fetching reverse geocoding data for coordinates: cat, -120.781462
+2025-02-26 16:25:34 - Received geocoding request for address: delhi
+2025-02-26 16:25:34 - Fetching geocoding data for address: delhi
+2025-02-26 16:25:35 - Longitude and Latitude result for address delhi: {longitude=77.163665, latitude=28.557163}
+2025-02-26 16:25:35 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-02-26 16:25:35 - Fetching reverse geocoding data for coordinates: 37.431155, -120.781462
+2025-02-26 16:25:35 - Address for coordinates 37.431155 , -120.781462: 16192 West Delhi Avenue, Delhi, CA, USA

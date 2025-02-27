@@ -1,0 +1,78 @@
+# Created at 2025-02-26T16:06:40.326
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:210)
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:385)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+
+# Created at 2025-02-26T16:06:40.991
+Unexpected IOException: 5,1,com.caching.service.GeoCodingImpTest,testReverseGeoCodingCacheHitWithEndpoint,null,null,null
+
+
+# Created at 2025-02-26T16:06:43.379
+Unexpected IOException: 6,1,com.caching.service.GeoCodingImpTest,testReverseGeoCodingCacheHitWithEndpoint,null,null,null
+
+
+# Created at 2025-02-26T16:06:43.381
+Unexpected IOException: 5,1,com.caching.service.GeoCodingImpTest,testGeoCodingCacheHitWithEndpoint,null,null,null
+
+
+# Created at 2025-02-26T16:06:44.191
+Unexpected IOException: 6,1,com.caching.service.GeoCodingImpTest,testGeoCodingCacheHitWithEndpoint,null,null,null
+
+
+# Created at 2025-02-26T16:06:44.193
+Unexpected IOException: 5,1,com.caching.service.GeoCodingImpTest,testGeoCodingCacheMiss,null,null,null
+
+
+# Created at 2025-02-26T16:06:44.997
+Unexpected IOException: 6,1,com.caching.service.GeoCodingImpTest,testGeoCodingCacheMiss,null,null,null
+
+
+# Created at 2025-02-26T16:06:44.999
+Unexpected IOException: 5,1,com.caching.service.GeoCodingImpTest,testGeoCodingCacheEviction,null,null,null
+
+
+# Created at 2025-02-26T16:06:46.139
+Unexpected IOException: 6,1,com.caching.service.GeoCodingImpTest,testGeoCodingCacheEviction,null,null,null
+
+
+# Created at 2025-02-26T16:06:46.142
+Unexpected IOException: 5,1,com.caching.service.GeoCodingImpTest,testGetGeoCodeNegative,null,null,null
+
+
+# Created at 2025-02-26T16:06:46.517
+Unexpected IOException: 6,1,com.caching.service.GeoCodingImpTest,testGetGeoCodeNegative,null,null,null
+
+
+# Created at 2025-02-26T16:06:46.518
+Unexpected IOException: 5,1,com.caching.service.GeoCodingImpTest,testGetReverseGeoCodeNegative,null,null,null
+
+
+# Created at 2025-02-26T16:06:46.940
+Unexpected IOException: 6,1,com.caching.service.GeoCodingImpTest,testGetReverseGeoCodeNegative,null,null,null
+
+
+# Created at 2025-02-26T16:06:46.942
+Unexpected IOException: 5,1,com.caching.service.GeoCodingImpTest,testGetGeoCode,null,null,null
+
+
+# Created at 2025-02-26T16:06:47.358
+Unexpected IOException: 6,1,com.caching.service.GeoCodingImpTest,testGetGeoCode,null,null,null
+
+
+# Created at 2025-02-26T16:06:47.359
+Unexpected IOException: 5,1,com.caching.service.GeoCodingImpTest,testGetReverseGeoCode,null,null,null
+
+
+# Created at 2025-02-26T16:06:48.156
+Unexpected IOException: 6,1,com.caching.service.GeoCodingImpTest,testGetReverseGeoCode,null,null,null
+
+
+# Created at 2025-02-26T16:06:48.158
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.caching.service.GeoCodingImpTest,null,null,null
+
+

@@ -1,0 +1,33 @@
+2025-01-26 11:36:19 - HV000001: Hibernate Validator 6.2.5.Final
+2025-01-26 11:36:19 - Starting Application using Java 23.0.1 on DESKTOP-DKDSUGT with PID 20228 (C:\Users\DELL\kdu_coursework\backend\assignments\2\target\classes started by DELL in C:\Users\DELL\kdu_coursework\backend\assignments\2)
+2025-01-26 11:36:19 - Running with Spring Boot v2.7.8, Spring v5.3.25
+2025-01-26 11:36:19 - No active profile set, falling back to 1 default profile: "default"
+2025-01-26 11:36:21 - Tomcat initialized with port(s): 8080 (http)
+2025-01-26 11:36:21 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-01-26 11:36:21 - Starting service [Tomcat]
+2025-01-26 11:36:21 - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2025-01-26 11:36:21 - Initializing Spring embedded WebApplicationContext
+2025-01-26 11:36:21 - Root WebApplicationContext: initialization completed in 1681 ms
+2025-01-26 11:36:21 - Starting ProtocolHandler ["http-nio-8080"]
+2025-01-26 11:36:22 - Tomcat started on port(s): 8080 (http) with context path ''
+2025-01-26 11:36:22 - Started Application in 3.156 seconds (JVM running for 3.703)
+2025-01-26 11:36:22 - Evicting all reverse geocoding cache entries.
+2025-01-26 11:36:22 - Evicting all geocoding cache entries.
+2025-01-26 11:36:26 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-26 11:36:26 - Initializing Servlet 'dispatcherServlet'
+2025-01-26 11:36:26 - Completed initialization in 1 ms
+2025-01-26 11:36:26 - Received geocoding request for address: NewYork
+2025-01-26 11:36:26 - Fetching geocoding data for address: NewYork
+2025-01-26 11:36:28 - Longitude and Latitude result for address NewYork: {longitude=-5.28333, latitude=56.25}
+2025-01-26 11:36:31 - Received geocoding request for address: NewYork
+2025-01-26 11:36:31 - Longitude and Latitude result for address NewYork: {longitude=-5.28333, latitude=56.25}
+2025-01-26 11:36:32 - Received geocoding request for address: NewYork
+2025-01-26 11:36:32 - Longitude and Latitude result for address NewYork: {longitude=-5.28333, latitude=56.25}
+2025-01-26 11:37:43 - Received geocoding request for address: Delhi
+2025-01-26 11:37:43 - Fetching geocoding data for address: Delhi
+2025-01-26 11:37:43 - Longitude and Latitude result for address Delhi: {longitude=77.163665, latitude=28.557163}
+2025-01-26 11:48:57 - Received geocoding request for address: Delhi
+2025-01-26 11:48:57 - Fetching geocoding data for address: Delhi
+2025-01-26 11:48:57 - Evicted entry due to EXPIRATION (expired after 5 minutes): Key = Delhi, Value = {longitude=77.163665, latitude=28.557163}
+2025-01-26 11:48:57 - Evicted entry due to EXPIRATION (expired after 5 minutes): Key = NewYork, Value = {longitude=-5.28333, latitude=56.25}
+2025-01-26 11:48:58 - Longitude and Latitude result for address Delhi: {longitude=77.163665, latitude=28.557163}

@@ -50,8 +50,7 @@ public class GeoCodingController {
 
         return ResponseEntity.ok(geocode);
     }
-
-//    @GetMapping("/geocoding/change")
+    //    @GetMapping("/geocoding/change")
 //    public ResponseEntity<Map<String, Double>> getGeocodeChange(@RequestParam String address) {
 //        logger.info("Received geocoding request for address: {}", address);
 //        Map<String, Double> geocode = geoCodingService.getGeocode(address);

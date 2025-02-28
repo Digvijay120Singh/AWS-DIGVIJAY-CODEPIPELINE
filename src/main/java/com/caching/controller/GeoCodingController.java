@@ -40,7 +40,7 @@ public class GeoCodingController {
      * @param address The address to be geocoded.
      * @return A ResponseEntity containing the latitude and longitude of the address.
      */
-    @GetMapping("/geocoding")
+    @GetMapping("/geocode")
     public ResponseEntity<Map<String, Double>> getGeocode(@RequestParam String address) {
         logger.info("Received geocoding request for address: {}", address);
 

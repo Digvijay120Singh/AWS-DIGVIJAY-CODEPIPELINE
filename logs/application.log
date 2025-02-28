@@ -461,3 +461,178 @@ You may wish to exclude one of them to ensure predictable runtime behavior
 2025-02-27 18:29:52 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
 2025-02-27 18:29:52 - Fetching reverse geocoding data for coordinates: 37.431155, -120.781462
 2025-02-27 18:29:53 - Address for coordinates 37.431155 , -120.781462: 16192 West Delhi Avenue, Delhi, CA, USA
+2025-02-28 16:17:12 - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/DELL/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/DELL/.m2/repository/org/json/json/20220924/json-20220924.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2025-02-28 16:17:12 - HV000001: Hibernate Validator 6.2.5.Final
+2025-02-28 16:17:12 - Starting GeoCodingImpTest using Java 23.0.1 on DESKTOP-DKDSUGT with PID 19164 (started by DELL in C:\Users\DELL\Downloads\2)
+2025-02-28 16:17:12 - Running with Spring Boot v2.7.8, Spring v5.3.25
+2025-02-28 16:17:12 - No active profile set, falling back to 1 default profile: "default"
+2025-02-28 16:17:14 - Initializing Spring TestDispatcherServlet ''
+2025-02-28 16:17:14 - Initializing Servlet ''
+2025-02-28 16:17:14 - Completed initialization in 4 ms
+2025-02-28 16:17:14 - Started GeoCodingImpTest in 2.778 seconds (JVM running for 4.396)
+2025-02-28 16:17:14 - Evicting all reverse geocoding cache entries.
+2025-02-28 16:17:14 - Evicting all geocoding cache entries.
+2025-02-28 16:17:38 - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/DELL/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/DELL/.m2/repository/org/json/json/20220924/json-20220924.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2025-02-28 16:17:38 - HV000001: Hibernate Validator 6.2.5.Final
+2025-02-28 16:17:38 - Starting GeoCodingImpTest using Java 23.0.1 on DESKTOP-DKDSUGT with PID 8672 (started by DELL in C:\Users\DELL\Downloads\2)
+2025-02-28 16:17:38 - Running with Spring Boot v2.7.8, Spring v5.3.25
+2025-02-28 16:17:38 - No active profile set, falling back to 1 default profile: "default"
+2025-02-28 16:17:39 - Initializing Spring TestDispatcherServlet ''
+2025-02-28 16:17:39 - Initializing Servlet ''
+2025-02-28 16:17:39 - Completed initialization in 0 ms
+2025-02-28 16:17:39 - Started GeoCodingImpTest in 2.039 seconds (JVM running for 3.295)
+2025-02-28 16:17:39 - Evicting all geocoding cache entries.
+2025-02-28 16:17:39 - Evicting all reverse geocoding cache entries.
+2025-02-28 16:17:41 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-02-28 16:17:41 - Fetching reverse geocoding data for coordinates: 37.431155, -120.781462
+2025-02-28 16:17:42 - Received geocoding request for address: delhi
+2025-02-28 16:17:42 - Fetching geocoding data for address: delhi
+2025-02-28 16:17:43 - Received geocoding request for address: goa
+2025-02-28 16:17:43 - Fetching geocoding data for address: goa
+2025-02-28 16:17:43 - Received geocoding request for address: goa
+2025-02-28 16:17:43 - Fetching geocoding data for address: goa
+2025-02-28 16:17:43 - Received geocoding request for address: invalid_address
+2025-02-28 16:17:43 - Fetching geocoding data for address: invalid_address
+2025-02-28 16:17:44 - Received reverse geocoding request for coordinates: cat , -120.781462
+2025-02-28 16:17:44 - Fetching reverse geocoding data for coordinates: cat, -120.781462
+2025-02-28 16:17:44 - Received geocoding request for address: delhi
+2025-02-28 16:17:44 - Fetching geocoding data for address: delhi
+2025-02-28 16:17:44 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-02-28 16:17:44 - Fetching reverse geocoding data for coordinates: 37.431155, -120.781462
+2025-02-28 16:22:27 - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/DELL/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/DELL/.m2/repository/org/json/json/20220924/json-20220924.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2025-02-28 16:22:27 - HV000001: Hibernate Validator 6.2.5.Final
+2025-02-28 16:22:27 - Starting GeoCodingImpTest using Java 23.0.1 on DESKTOP-DKDSUGT with PID 20704 (started by DELL in C:\Users\DELL\Downloads\2)
+2025-02-28 16:22:27 - Running with Spring Boot v2.7.8, Spring v5.3.25
+2025-02-28 16:22:27 - No active profile set, falling back to 1 default profile: "default"
+2025-02-28 16:22:29 - Initializing Spring TestDispatcherServlet ''
+2025-02-28 16:22:29 - Initializing Servlet ''
+2025-02-28 16:22:29 - Completed initialization in 0 ms
+2025-02-28 16:22:29 - Started GeoCodingImpTest in 2.229 seconds (JVM running for 3.432)
+2025-02-28 16:22:29 - Evicting all geocoding cache entries.
+2025-02-28 16:22:29 - Evicting all reverse geocoding cache entries.
+2025-02-28 16:22:31 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-02-28 16:22:31 - Fetching reverse geocoding data for coordinates: 37.431155, -120.781462
+2025-02-28 16:22:32 - Received geocoding request for address: delhi
+2025-02-28 16:22:32 - Fetching geocoding data for address: delhi
+2025-02-28 16:22:32 - Received geocoding request for address: goa
+2025-02-28 16:22:32 - Fetching geocoding data for address: goa
+2025-02-28 16:22:32 - Received geocoding request for address: goa
+2025-02-28 16:22:32 - Fetching geocoding data for address: goa
+2025-02-28 16:22:33 - Received geocoding request for address: invalid_address
+2025-02-28 16:22:33 - Fetching geocoding data for address: invalid_address
+2025-02-28 16:22:33 - Received reverse geocoding request for coordinates: cat , -120.781462
+2025-02-28 16:22:33 - Fetching reverse geocoding data for coordinates: cat, -120.781462
+2025-02-28 16:22:34 - Received geocoding request for address: delhi
+2025-02-28 16:22:34 - Fetching geocoding data for address: delhi
+2025-02-28 16:22:34 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-02-28 16:22:34 - Fetching reverse geocoding data for coordinates: 37.431155, -120.781462
+2025-02-28 16:23:11 - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/DELL/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/DELL/.m2/repository/org/json/json/20220924/json-20220924.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2025-02-28 16:23:11 - Starting CachingApplicationTest using Java 23.0.1 on DESKTOP-DKDSUGT with PID 2928 (started by DELL in C:\Users\DELL\Downloads\2)
+2025-02-28 16:23:11 - Running with Spring Boot v2.7.8, Spring v5.3.25
+2025-02-28 16:23:11 - No active profile set, falling back to 1 default profile: "default"
+2025-02-28 16:23:11 - HV000001: Hibernate Validator 6.2.5.Final
+2025-02-28 16:23:13 - Started CachingApplicationTest in 2.01 seconds (JVM running for 3.113)
+2025-02-28 16:23:13 - Evicting all reverse geocoding cache entries.
+2025-02-28 16:23:13 - Evicting all geocoding cache entries.
+2025-02-28 16:23:19 - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/DELL/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/DELL/.m2/repository/org/json/json/20220924/json-20220924.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2025-02-28 16:23:19 - HV000001: Hibernate Validator 6.2.5.Final
+2025-02-28 16:23:19 - Starting GeoCodingImpTest using Java 23.0.1 on DESKTOP-DKDSUGT with PID 14564 (started by DELL in C:\Users\DELL\Downloads\2)
+2025-02-28 16:23:19 - Running with Spring Boot v2.7.8, Spring v5.3.25
+2025-02-28 16:23:19 - No active profile set, falling back to 1 default profile: "default"
+2025-02-28 16:23:21 - Initializing Spring TestDispatcherServlet ''
+2025-02-28 16:23:21 - Initializing Servlet ''
+2025-02-28 16:23:21 - Completed initialization in 2 ms
+2025-02-28 16:23:21 - Started GeoCodingImpTest in 1.97 seconds (JVM running for 3.139)
+2025-02-28 16:23:21 - Evicting all reverse geocoding cache entries.
+2025-02-28 16:23:21 - Evicting all geocoding cache entries.
+2025-02-28 16:23:22 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-02-28 16:23:22 - Fetching reverse geocoding data for coordinates: 37.431155, -120.781462
+2025-02-28 16:23:24 - Received geocoding request for address: delhi
+2025-02-28 16:23:24 - Fetching geocoding data for address: delhi
+2025-02-28 16:23:24 - Received geocoding request for address: goa
+2025-02-28 16:23:24 - Fetching geocoding data for address: goa
+2025-02-28 16:23:24 - Received geocoding request for address: goa
+2025-02-28 16:23:24 - Fetching geocoding data for address: goa
+2025-02-28 16:23:25 - Received geocoding request for address: invalid_address
+2025-02-28 16:23:25 - Fetching geocoding data for address: invalid_address
+2025-02-28 16:23:25 - Received reverse geocoding request for coordinates: cat , -120.781462
+2025-02-28 16:23:25 - Fetching reverse geocoding data for coordinates: cat, -120.781462
+2025-02-28 16:23:25 - Received geocoding request for address: delhi
+2025-02-28 16:23:25 - Fetching geocoding data for address: delhi
+2025-02-28 16:23:25 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-02-28 16:23:25 - Fetching reverse geocoding data for coordinates: 37.431155, -120.781462
+2025-02-28 16:26:21 - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/DELL/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/DELL/.m2/repository/org/json/json/20220924/json-20220924.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2025-02-28 16:26:21 - HV000001: Hibernate Validator 6.2.5.Final
+2025-02-28 16:26:21 - Starting GeoCodingImpTest using Java 23.0.1 on DESKTOP-DKDSUGT with PID 8188 (started by DELL in C:\Users\DELL\Downloads\2)
+2025-02-28 16:26:21 - Running with Spring Boot v2.7.8, Spring v5.3.25
+2025-02-28 16:26:21 - No active profile set, falling back to 1 default profile: "default"
+2025-02-28 16:26:23 - Initializing Spring TestDispatcherServlet ''
+2025-02-28 16:26:23 - Initializing Servlet ''
+2025-02-28 16:26:23 - Completed initialization in 0 ms
+2025-02-28 16:26:23 - Started GeoCodingImpTest in 2.044 seconds (JVM running for 3.12)
+2025-02-28 16:26:23 - Evicting all reverse geocoding cache entries.
+2025-02-28 16:26:23 - Evicting all geocoding cache entries.
+2025-02-28 16:26:24 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-02-28 16:26:24 - Fetching reverse geocoding data for coordinates: 37.431155, -120.781462
+2025-02-28 16:26:25 - Received geocoding request for address: delhi
+2025-02-28 16:26:25 - Fetching geocoding data for address: delhi
+2025-02-28 16:26:26 - Received geocoding request for address: goa
+2025-02-28 16:26:26 - Fetching geocoding data for address: goa
+2025-02-28 16:26:26 - Received geocoding request for address: goa
+2025-02-28 16:26:26 - Fetching geocoding data for address: goa
+2025-02-28 16:26:26 - Received geocoding request for address: invalid_address
+2025-02-28 16:26:26 - Fetching geocoding data for address: invalid_address
+2025-02-28 16:26:26 - Received reverse geocoding request for coordinates: cat , -120.781462
+2025-02-28 16:26:26 - Fetching reverse geocoding data for coordinates: cat, -120.781462
+2025-02-28 16:26:27 - Received geocoding request for address: delhi
+2025-02-28 16:26:27 - Fetching geocoding data for address: delhi
+2025-02-28 16:26:27 - Received reverse geocoding request for coordinates: 37.431155 , -120.781462
+2025-02-28 16:26:27 - Fetching reverse geocoding data for coordinates: 37.431155, -120.781462

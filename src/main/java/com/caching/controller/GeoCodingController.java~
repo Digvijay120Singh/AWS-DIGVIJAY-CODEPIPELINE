@@ -53,10 +53,8 @@ public class GeoCodingController {
     @GetMapping("/digvijay")
     public ResponseEntity<String> getGeocode() {
 
-        return ResponseEntity.ok("This is Digvijay  Singh");
+        return ResponseEntity.ok("This is Digvijay");
     }
-
-
     //    @GetMapping("/geocoding/change")
 //    public ResponseEntity<Map<String, Double>> getGeocodeChange(@RequestParam String address) {
 //        logger.info("Received geocoding request for address: {}", address);

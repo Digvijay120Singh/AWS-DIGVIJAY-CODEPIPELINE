@@ -49,6 +49,12 @@ public class GeoCodingController {
         logger.info("Longitude and Latitude result for address {}: {}", address, geocode);
         return ResponseEntity.ok(geocode);
     }
+
+    @GetMapping("/digvijay")
+    public ResponseEntity<String> getGeocode() {
+
+        return ResponseEntity.ok("This is Digvijay");
+    }
     //    @GetMapping("/geocoding/change")
 //    public ResponseEntity<Map<String, Double>> getGeocodeChange(@RequestParam String address) {
 //        logger.info("Received geocoding request for address: {}", address);

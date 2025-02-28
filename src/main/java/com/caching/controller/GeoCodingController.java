@@ -54,7 +54,6 @@ public class GeoCodingController {
     @GetMapping("/geocoding/change")
     public ResponseEntity<Map<String, Double>> getGeocodeChange(@RequestParam String address) {
         logger.info("Received geocoding request for address: {}", address);
-
         Map<String, Double> geocode = geoCodingService.getGeocode(address);
 
         logger.info("Longitude and Latitude result for address {}: {}", address, geocode);
